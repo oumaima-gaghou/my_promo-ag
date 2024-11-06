@@ -1,6 +1,6 @@
 # My_promo
 
-Modifier le style d'un élément et ajouter des animations à une interface statique.
+Ajouter des animations à une interface web statique.
 
 ![Brief Ma_promo](./brief_about_me.jpg)
 
