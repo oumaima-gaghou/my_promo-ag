@@ -2,7 +2,7 @@
 
 Modifier le style d'un élément et ajouter des animations à une interface statique.
 
-<> ![Brief Ma_promo](./brief_about_me.jpg)
+![Brief Ma_promo](./brief_about_me.jpg)
 
 
 ## Contexte
