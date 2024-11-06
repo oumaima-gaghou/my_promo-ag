@@ -78,6 +78,7 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 - Conformité avec les standards W3C
 - Respect de la maquette
 - Animations et apparitions des noms complets au hover
+- Responsive
 
 
 ## Ressources
