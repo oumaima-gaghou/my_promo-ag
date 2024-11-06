@@ -83,10 +83,10 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 
 ## Ressources
 
-- [Créer sa première page HTML](https://www.codeur.com/tuto/html/comment-creer-page-html/#creer_son_premier_fichier_html)
-- [Lier un fichier CSS](https://developer.mozilla.org/fr/docs/Learn/CSS/First_steps/Getting_started)
-- [Créer son dépot GitHub](https://docs.github.com/fr/repositories/creating-and-managing-repositories/quickstart-for-repositories)
 - [W3C](https://validator.w3.org/)
+- [Créer son dépot GitHub](https://docs.github.com/fr/repositories/creating-and-managing-repositories/quickstart-for-repositories)
+- [CSS - Keyframes](https://developer.mozilla.org/fr/docs/Web/CSS/@keyframes)
+- [CSS - Media Queries](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 
 
 ## Authors
