@@ -59,7 +59,7 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 
 ---
  
-***Deadline : ? jours***
+***Deadline : 4 à 5 jours***
 
 ---
 
