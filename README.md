@@ -2,7 +2,7 @@
 
 Ajouter des animations à une interface web statique.
 
-![Brief Ma_promo](./brief_about_me.jpg)
+![Brief Ma_promo](./brief_my_promo.jpg)
 
 
 ## Contexte
