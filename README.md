@@ -2,7 +2,7 @@
 
 Ajouter des animations à une interface web statique.
 
-![Brief Ma_promo](./brief_my_promo.jpg)
+![Brief Ma_promo](./brief_about_me.jpg)
 
 
 ## Contexte
@@ -59,7 +59,7 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 
 ---
  
-***Deadline : 4 à 5 jours***
+***Deadline : 3 à 4 jours***
 
 ---
 
