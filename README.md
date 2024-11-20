@@ -1,6 +1,6 @@
 # My_promo
 
-Ajouter des animations à une interface web statique.
+Créer une interface web statique responsive en mobile-first avec des animations.
 
 ![Brief Ma_promo](./brief_about_me.jpg)
 
@@ -11,16 +11,14 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 
 ### Quelques contraintes :
 - Les langages HTML5 et CSS3 vous sont imposés
-- Vous ne pouvez pas modifier le code sous les commentaires l'indiquant
 - Le site est responsive pour :
-  - iPhone 6/7/8 iOS 11 (mobile)
+  - iPhone (mobile)
   - iPad (tablette)
   - 720p HD Television (PC)
 
 **CSS** :
 - Mobile-first
 - Flexbox pour la version mobile & Grid pour les versions tablette & PC
-- FontAwesome pour les icônes
 - Keyframes pour les animations
 - Media Queries pour le Responsive Design
 - Chaque card mesure 300x100px sur tous les appareils
@@ -54,8 +52,8 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 
 ### Création des animations et effets au hover
 
-- Rédiger des `@keyframes` pour créer des animations
-- Appliquer les animations au `hover` des cards
+- Créer au moins une `@keyframes` pour faire apparaître un élément au choix
+- Appliquer des animations au `hover` des cards avec des transitions
 
 ---
  
@@ -70,15 +68,13 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 
 ## Livrables
 
-- Le lien vers votre dépôt `GitHub` avec un dernier commit lorsque tout fonctionne "completed"
-- Une capture d'écran de votre grille d'évaluation
+- Le lien vers votre dépôt `GitHub` avec un dernier commit lorsque tout fonctionne "finished"
 
 ## Critères de performances
 
-- Conformité avec les standards W3C
 - Respect de la maquette
 - Animations et apparitions des noms complets au hover
-- Responsive
+- Design responsive
 
 
 ## Ressources
