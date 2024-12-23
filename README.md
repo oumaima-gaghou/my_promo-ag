@@ -32,7 +32,6 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 ---
 
 ### Création du dépôt Github
-
 - Créer un dépôt avec le format demandé et vos initiales à la fin du nom
 
 
