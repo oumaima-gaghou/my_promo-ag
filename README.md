@@ -9,6 +9,7 @@ Créer une interface web statique responsive en mobile-first avec des animations
 
 Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez comme mission de vous familiariser avec les noms de vos collègues apprenants via un projet web.
 
+
 ### Quelques contraintes :
 - Les langages HTML5 et CSS3 vous sont imposés
 - Le site est responsive pour :
@@ -23,6 +24,7 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 - Media Queries pour le Responsive Design
 - Chaque card mesure 300x100px sur tous les appareils
 
+
 ## Modalités pédagogiques
 
 ---
@@ -30,6 +32,7 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 **Activité individuelle en mode collaboratif.**
 
 ---
+
 
 ### Création du dépôt Github
 - Créer un dépôt avec le format demandé et vos initiales à la fin du nom
@@ -57,6 +60,7 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 
 ---
 
+
 ## Modalités d'évaluation
 
 - Présentation du site devant les pairs
@@ -65,6 +69,7 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 ## Livrables
 
 - Le lien vers votre dépôt `GitHub` avec un dernier commit lorsque tout fonctionne "finished"
+
 
 ## Critères de performances
 
@@ -81,7 +86,7 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 - [CSS - Media Queries](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 
 
-## Authors
+## Auteurs
 
 - [Nicolas Herbez](https://github.com/nicolas-herbez)
 - [Rémy Cottrez](https://github.com/RemyCTRZ)
