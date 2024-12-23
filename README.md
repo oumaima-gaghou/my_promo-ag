@@ -42,7 +42,6 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 
 
 ### Intégration de la maquette
-
 - Créer les différents containers dans le `<body>` (body > section > article)
 - Ajouter le titre `<h1>` **"Ma promo"**
 - Ajouter une card par apprenant dans un container
