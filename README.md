@@ -48,7 +48,6 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 
 
 ### Création des animations et effets au hover
-
 - Créer au moins une `@keyframes` pour faire apparaître un élément au choix
 - Appliquer des animations au `hover` des cards avec des transitions
 
