@@ -12,9 +12,9 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 ### Quelques contraintes :
 - Les langages HTML5 et CSS3 vous sont imposés
 - Le site est responsive pour :
-  - iPhone (mobile)
-  - iPad (tablette)
-  - 720p HD Television (PC)
+  - Mobile
+  - Tablette
+  - Desktop
 
 **CSS** :
 - Mobile-first
