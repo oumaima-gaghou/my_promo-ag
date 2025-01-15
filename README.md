@@ -1,4 +1,4 @@
-# My_promo
+# Ma promo
 
 Créer une interface web statique responsive en mobile-first avec des animations.
 
@@ -11,18 +11,19 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 
 
 ### Quelques contraintes :
-- Les langages HTML5 et CSS3 vous sont imposés
+- Les langages HTML5 et CSS3 vous sont imposés.
+  
 - Le site est responsive pour :
-  - Mobile
-  - Tablette
-  - Desktop
+  - Mobile.
+  - Tablette.
+  - Desktop.
 
 **CSS** :
-- Mobile-first
-- Flexbox pour la version mobile & Grid pour les versions tablette & PC
-- Keyframes pour les animations
-- Media Queries pour le Responsive Design
-- Chaque card mesure 300x100px sur tous les appareils
+- Mobile-first.
+- Flexbox pour la version mobile & Grid pour les versions tablette & PC.
+- Keyframes pour les animations.
+- Media Queries pour le Responsive Design.
+- Chaque card mesure 300x100px sur tous les appareils.
 
 
 ## Modalités pédagogiques
@@ -35,47 +36,47 @@ Vous êtes un nouvel apprenant au sein de votre centre de formation et vous avez
 
 
 ### Création du dépôt Github
-- Créer un dépôt avec le format demandé et vos initiales à la fin du nom
+- Créer un dépôt avec le format demandé suivi de vos initiales.
 
 
 ### Création des fichiers HTML & CSS
-- Créer `index.html`
-- Créer `styles.css`
-- Lier la fiche de style à l'index
+- Créer `index.html`.
+- Créer `styles.css`.
+- Lier la fiche de style à l'index.
 
 
 ### Intégration de la maquette
-- Créer les différents containers dans le `<body>` (body > section > article)
-- Ajouter le titre `<h1>` **"Ma promo"**
-- Ajouter une card par apprenant dans un container
+- Créer les différents containers dans le `<body>` (body > section > article).
+- Ajouter le titre `<h1>` **"Ma promo"**.
+- Ajouter une card par apprenant dans un container.
 
 
 ### Création des animations et effets au hover
-- Créer au moins une `@keyframes` pour faire apparaître un élément au choix
-- Appliquer des animations au `hover` des cards avec des transitions
+- Créer au moins une `@keyframes` pour faire apparaître un élément au choix.
+- Appliquer des animations au `hover` des cards avec des transitions.
 
 ---
  
-***Deadline : 3 à 4 jours***
+***Deadline : 3 à 4 jours.***
 
 ---
 
 
 ## Modalités d'évaluation
 
-- Présentation du site devant les pairs
+- Présentation du site devant les pairs.
 
 
 ## Livrables
 
-- Le lien vers votre dépôt `GitHub` avec un dernier commit lorsque tout fonctionne "finished"
+- Le lien vers votre dépôt `GitHub` avec un dernier commit lorsque tout fonctionne "finished".
 
 
 ## Critères de performances
 
-- Respect de la maquette
-- Animations et apparitions des noms complets au hover
-- Design responsive
+- Respect de la maquette.
+- Animations et apparitions des noms complets au hover.
+- Design responsive.
 
 
 ## Ressources
