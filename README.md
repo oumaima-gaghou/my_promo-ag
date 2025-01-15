@@ -2,7 +2,7 @@
 
 Créer une interface web statique responsive en mobile-first avec des animations.
 
-![Brief Ma_promo](./brief_my_promo.jpg)
+![Brief Ma_promo](./brief_my_promo.webp)
 
 
 ## Contexte
