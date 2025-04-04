@@ -1,36 +1,59 @@
-h1 {
-    font-size: 2em;
-    color: #333;
-    margin-top: 20px;
-}
-
-body{
-    font-family: Arial, sans-serif;
-    font-size: medium;
-    font-style: italic;
+h1{
     text-align: center;
-    font-weight: 600;
-    background:white
-    
+    font-size: 2rem;
+    color: #333;
+    text-decoration:underline;
+}
+body {
+  text-align: center;
+  font-weight: 300px;
 }
 .conteneur {
-    display: flex; /* Affichage en ligne */
-    flex-direction: column;
-    align-items: center; /* Centre les cartes verticalement */
-    justify-content:center
+
+    justify-content: center;
+}
+.carte {
+   width: 300px;
+   height: 100px;
+   background-color: #8d2727;
+   border-radius: 8px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   overflow: hidden;
+   position: relative;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   cursor: pointer;
+   margin-left: 30%;
+   margin-right: 30%;
+}
+.initiales {
+    font-size: 24px;
+    font-weight: bold;
+    color: #b8b12a;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+.texthover {
+    opacity: 0;
+    font-size: 18px;
+    color: #333;
+    transition: opacity 0.3s ease;
+    position: absolute;
+}
+.carte:hover .initiales {
+    opacity: 0; /* Cache les initiales au survol */
 }
 
-.carte {
-    width: 300px;
-    height: 100px;
-    background: linear-gradient(135deg, #6e8efb, #a777e3);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 10px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-    font-size: 18px;
-    font-weight: bold;
-    color: white;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+.carte:hover .texthover {
+    opacity: 1; /* Affiche le prénom et nom au survol */
 }
+
+{ opacity: 1; transform: translateY(0); }
+
+@media (min-width: 768px) {
+    .conteneur {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* 2 cartes par ligne */
+        gap: 20px;
+    }
