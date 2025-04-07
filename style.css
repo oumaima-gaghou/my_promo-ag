@@ -1,59 +1,95 @@
 h1{
     text-align: center;
     font-size: 2rem;
-    color: #333;
+    color: #9c431a;
     text-decoration:underline;
+    align-items: center;
 }
 body {
   text-align: center;
   font-weight: 300px;
+  
 }
 .conteneur {
-
     justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    gap: 10px;
+    
+      
 }
+
+
 .carte {
    width: 300px;
    height: 100px;
    background-color: #8d2727;
    border-radius: 8px;
-   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) ;
    overflow: hidden;
    position: relative;
    display: flex;
    justify-content: center;
    align-items: center;
    cursor: pointer;
-   margin-left: 30%;
-   margin-right: 30%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: auto;
+   flex-direction: column;
+   margin-bottom: auto;
+   animation: carteanim 5s ease forwards;
+   
 }
+
 .initiales {
     font-size: 24px;
     font-weight: bold;
     color: #b8b12a;
     opacity: 1;
     transition: opacity 0.3s ease;
+    
+
 }
 .texthover {
     opacity: 0;
     font-size: 18px;
-    color: #333;
+    color: white;
     transition: opacity 0.3s ease;
     position: absolute;
 }
 .carte:hover .initiales {
-    opacity: 0; /* Cache les initiales au survol */
+    opacity: 0;  /* Cache les initiales au survol */
+
+    
 }
+
+
 
 .carte:hover .texthover {
-    opacity: 1; /* Affiche le prénom et nom au survol */
+    opacity: 1;   /* Affiche le prénom et nom au survol */
+
 }
 
-{ opacity: 1; transform: translateY(0); }
+
 
 @media (min-width: 768px) {
     .conteneur {
         display: grid;
-        grid-template-columns: repeat(2, 1fr); /* 2 cartes par ligne */
+        grid-template-columns: repeat(3, 1fr); 
         gap: 20px;
+        justify-items: center;
     }
+}
+
+@keyframes carteanim {
+    from {
+      opacity: 0;
+      transform: translateY(20px); 
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0); 
+    }
+  }
